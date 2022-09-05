@@ -6,7 +6,7 @@ import os
 import random
 import tkinter as tk
 
-
+# !! face_distance() = verilen yüzler arasındaki mesafeyi ölçer. Daha sonra bunların indexlerini argmin() ile kaydettiğimiz listeden çekebiliriz. !! 
 
 
 def face():
